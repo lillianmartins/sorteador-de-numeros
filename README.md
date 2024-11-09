@@ -16,8 +16,8 @@ O objetivo do projeto é sortear uma quantidade de números aleatórios entre um
 - `Arrays`: criar e manipular arrays, adicionando elementos com o método push.
 
 ## Acesse o projeto
-Acesse o código do projeto:
-[GitHub](https://github.com/lillianmartins/sorteador-de-numeros)
+Acesse o código do projeto:  
+[GitHub](https://github.com/lillianmartins/sorteador-de-numeros)  
 [Link](https://sorteador-de-numeros-tawny.vercel.app/) 
 
 ## Mais informações sobre o curso
