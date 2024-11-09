@@ -1,4 +1,4 @@
-![Programação-Lógica de Programação: Projeto Sorteador de Números]()
+![Programação-Lógica de Programação: Projeto Sorteador de Números](C:\Users\DELL\Documents\Alura\Postagens\TumbNails\Sorteador-de-Números.png)
 
 # Projeto Sorteador de Números
 O objetivo do projeto é sortear uma quantidade de números aleatórios entre um intervalo de valores determinados pelo usuário.
